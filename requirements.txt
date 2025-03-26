@@ -1,0 +1,10 @@
+geopandas==1.0.1
+graphviz==0.20.3
+ipython==8.12.3
+matplotlib==3.10.1
+numpy==2.2.4
+pandas==2.2.3
+plotly==6.0.0
+pydotplus==2.0.2
+scikit_learn==1.6.1
+seaborn==0.13.2
