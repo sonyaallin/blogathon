@@ -1,5 +1,14 @@
 # York University + Toronto Open Data Blogathon 2025
 
+Welcome to a repository with some blogathon resources!
+
+We ask that everyone submit 5 slides by 3 pm on April 2.
+
+** We will then see you at 3.30 in BRG 217! **
+
+[Submit Slides Here](https://forms.office.com/r/q0pBEfqyCJ)
+
+
 [An Example Blog Post](https://www.eecs.yorku.ca/~sallin/blog/)
 
 [Another Example Blog Post](https://open.toronto.ca/how-the-city-is-winning-the-war-against-lead-contamination-in-drinking-water/)
