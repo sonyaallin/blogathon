@@ -1,4 +1,4 @@
-# York University + Toronto Open Data Blogathon 2026
+# York Data Science Club, York Library + Toronto Open Data Datathon 2026
 
 ![An Example of a Map Collage](image.jpg)
 
