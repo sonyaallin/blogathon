@@ -1,5 +1,7 @@
 # York University + Toronto Open Data Blogathon 2026
 
+![An Example of a Map Collage](image.jpg)
+
 Welcome to a repository with some blogathon resources! 
 
 **Visualization Resources**
