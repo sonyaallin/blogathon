@@ -6,9 +6,13 @@ Welcome to a repository with some blogathon resources!
 
 **Visualization Resources**
 
-[Choropleths with Python Folium and Matplotlib (Jupyter Notebook)](https://github.com/sonyaallin/blogathon/blob/main/2026/choropleth.ipynb)
+[Choropleths of basement floodings with Python Folium and Matplotlib (Jupyter Notebook)](https://github.com/sonyaallin/blogathon/blob/main/2026/toronto_flooding_analysis.ipynb)
+
+[Choropleths of Neighborhood Diversity and Crime using GeoPandas, Matplotlib (Jupyter Notebook)](https://github.com/sonyaallin/blogathon/blob/main/2026/diversity.ipynb)
 
 [Trees, Boxplots, Scatterplots and More with Seaboarn and PyPlot (Jupyter Notebook)](https://github.com/sonyaallin/blogathon/blob/main/2026/rentsafe.ipynb)
+
+[Python Graph Gallery](https://python-graph-gallery.com/)
 
 Note that to create a virtual environment and install notebook dependencies you can type:
 
