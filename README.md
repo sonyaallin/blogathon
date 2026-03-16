@@ -10,7 +10,7 @@ Welcome to a repository with some blogathon resources!
 
 [Choropleths of Neighborhood Diversity and Crime using GeoPandas, Matplotlib (Jupyter Notebook)](https://github.com/sonyaallin/blogathon/blob/main/2026/diversity.ipynb)
 
-[Trees, Boxplots, Scatterplots and More with Seaboarn and PyPlot (Jupyter Notebook)](https://github.com/sonyaallin/blogathon/blob/main/2026/rentsafe.ipynb)
+[Trees, Boxplots, Scatterplots of Toronto Rental Evaluation Data using Seaboarn and PyPlot (Jupyter Notebook)](https://github.com/sonyaallin/blogathon/blob/main/2026/rentsafe.ipynb)
 
 [Python Graph Gallery](https://python-graph-gallery.com/)
 
