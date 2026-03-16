@@ -1,6 +1,6 @@
 # York University + Toronto Open Data Blogathon 2025
 
-Welcome to a repository with some blogathon resources!
+Welcome to a repository with some blogathon resources! Change
 
 We ask that everyone submit 5 slides by 3 pm on April 2.
 
