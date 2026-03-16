@@ -4,7 +4,7 @@ Welcome to a repository with some blogathon resources!
 
 **Visualization Resources**
 
-[Choropleths with Python Folium and Matplotlib (Jupyter Notebook)](https://github.com/sonyaallin/blogathon/blob/main/2026/chloropleths.ipynb)
+[Choropleths with Python Folium and Matplotlib (Jupyter Notebook)](https://github.com/sonyaallin/blogathon/blob/main/2026/choropleth.ipynb)
 
 [Trees, Boxplots, Scatterplots and More with Seaboarn and PyPlot (Jupyter Notebook)](https://github.com/sonyaallin/blogathon/blob/main/2026/rentsafe.ipynb)
 
