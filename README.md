@@ -20,9 +20,9 @@ jupyter notebook
 
 **If you want to particiapte in Blog Pitches on April 2**
 
-We ask that everyone submit 5 slides by 3 pm on April 2.
+We ask that everyone submit 5 slides by midnight on April 1.
 
-** We will then see you at 10 am that day to make your pitch! **
+** We will then see you at 10 am April 2 to make your pitch! **
 
 [Submit Slides Here](https://forms.office.com/r/q0pBEfqyCJ)
 
