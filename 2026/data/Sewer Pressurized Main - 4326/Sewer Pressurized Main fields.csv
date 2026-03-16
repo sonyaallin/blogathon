@@ -1,0 +1,18 @@
+field,name
+_id1,_id
+Sewer P2,Sewer Pressurized Asset Identification
+Sewer P3,Sewer Pressurized Upstream Maintenance Hole
+Sewer P4,Sewer Pressurized Downstream Maintenance Hole
+Sewer P5,Sewer Pressurized Twin Number
+Sewer P6,Sewer Pressurized Flow Type
+Sewer P7,Sewer Pressurized Structure Type
+Sewer P8,Sewer Pressurized Location Description
+Sewer P9,Sewer Pressurized Owned By
+Sewer P10,Sewer Pressurized Managed By
+Sewer P11,Sewer Pressurized Install Date
+Sewer P12,Sewer Pressurized Diameter
+Sewer P13,Sewer Pressurized Material
+Sewer P14,Sewer Pressurized Main Shape
+Sewer P15,Sewer Pressurized Measured Length
+Sewer P16,Sewer Pressurized Trunk Sewer
+Sewer P17,Sewer Pressurized Trunk Name
